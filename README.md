@@ -82,6 +82,11 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4. Push to the branch (`git push origin feature/improvement`).
 5. Create a new Pull Request.
 
+### Contributors
+
+- [Prabodha Lenora](https://github.com/prabolenora)
+- [Sanduni Perera](https://github.com/shashperera)
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
