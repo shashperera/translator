@@ -90,7 +90,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Make sure to replace placeholders such as demo link, screenshot, and Firebase setup instructions with relevant information specific to your project. Additionally, provide detailed instructions on how to install, use, and contribute to the project.
