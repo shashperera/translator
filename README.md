@@ -1,7 +1,3 @@
-Creating a README file for your Translator App project is crucial for providing essential information to users and developers. Below is a template you can use to structure your README:
-
----
-
 # Translator App
 
 The Translator App is a web application that allows users to translate text from one language to another using various translation services. It's built with React, TypeScript, Firebase, and integrates Figma designs for a seamless user experience.
