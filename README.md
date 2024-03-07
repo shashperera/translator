@@ -22,9 +22,7 @@ The Translator App is a web application that allows users to translate text from
 
 ## Demo
 
-[Link to live demo](#) *(Replace with your demo link)*
-
-![Screenshot](screenshot.png) *(Replace with a screenshot of your app)*
+[Link to Design demo](https://www.figma.com/proto/cfNVAFO1B5ejEVeJdONFpW/Translator?type=design&node-id=1-1439&t=X1wl4Iwx8cpLYvFo-1&scaling=min-zoom&page-id=0%3A1&mode=design)
 
 ## Installation
 
